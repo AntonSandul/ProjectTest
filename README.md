@@ -116,6 +116,6 @@ git pull orijin master
 
 После этих действий можно работать
 
-
+![ветки](C:\Users\Антон\Desktop\GitProject\branch.png)
 
 
